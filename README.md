@@ -1,4 +1,4 @@
-# FYP-HDB
+# HDB Deep Learning Prediciton
 ## data
 - raw: contains raw data collected from API and stored as csv
 - timeseriesdata.csv: final data with imputations and all 9 features merged into single csv
